@@ -1,0 +1,3 @@
+Resonant frequency scans that occured with a range of driving voltages can be found for V3.3 at T:\WilsonGroup\MRA_grant\software\FiberScannerV3.3\PSD\FrequencySweep\20220416\AmplitudeChangeRun\TestResonance_1sec_0.5HzStep
+These driving voltages include amplitudes of [0.1:0.1:1] (where the amplitude (V) *120V (gain) = output driving voltage). 
+Another resonant frequency scan that is only at 0.5V amplitude (60V driving) can be found at T:\WilsonGroup\MRA_grant\software\FiberScannerV3.3\CNC_DissertationFiles_OrganizedCodeForV3.3\ResonantFrequency\V3.3Measurements\20220503\TestResonance_1sec_1HzStep
