@@ -1,0 +1,14 @@
+3D printing CAD files and drawings
+CAD files: 
+  BufferHolder1in.stl: buffer holder 1" long
+  BufferHolder2in.stl: buffer holder 2" long
+  PiezoHolder.stl: piezotube holder
+  ShellNew.stl: external housing #1
+  ShellCover.stl: external housing #2
+
+Drawings: 
+  BufferHolder.pdf: dimensions for buffer holder
+  FerruleHolder.pdf: dimensions for ferrule bushing; excludes the lip that keeps the bushing from sliding into the piezotube
+  PiezotubeHolder.pdf: dimensions for piezotube holder
+  SM1F2_LensTube2Flange.pdf: dimensions for Thorlabs part lens tube to flange
+  RR2FerruleAlgn.pdf: dimensions for fiber alignment aid; this aid can be glued to a retaining ring and slid inside a lens tube
